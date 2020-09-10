@@ -1,0 +1,1 @@
+.\PortablePython382\App\Python\python .\modules\md_set_commands.py
